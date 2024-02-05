@@ -1,0 +1,1 @@
+This is a basic recipe website which will showcase my HTML skills. This is meant as a starting point for future projects.
